@@ -1,0 +1,48 @@
+Introduction: Cloudcomputing is a set of forms that contain certain elements that allows for on-demand, network access, 
+  scalability, and shared resources.  
+  It's a platform for managing, storing, and processing data online through the internet.
+  - it is cloud offerring from microsoft 
+  - operates in 17 regions around the world   
+
+  Chanracteristic of cloud computing: 
+      self-service - 
+      resources are pooled across multiple customers - multiple users 
+      Elasticity - scale out and scale in
+      Reliability - zore down time
+      utility modeled services - 
+  
+  Some of the cloud computing features include the following:
+    - On-Demand Services – Available when you need it
+    - Network Access – When using the internet as your medium
+    - Shared Resources – All resources are gathered together and used by multiple customers
+    - Scalability -  The ability of a computer system to adapt to increasing demands
+ 
+ Categories of cloud services: 
+      SAAS: software depolyed over the internet. 
+            we will use the services directly.          
+            eg. 365, google plus, 
+            a. SaaS is a software delivery methodology that provides licensed multi-tenant access to software and its functions remotely as a Web-based service.
+            b. From end user’s point of view apps are located in the cloud and it is almost always accessible through a web browser. 
+            c. Any application hosted on a remote server that can be accessed over the Internet is considered as SaaS. 
+            d. Usually billed based on usage and a multi-tenant environment.
+            e. Ex: Microsoft Azure, Gmail, Google Apps (Office like features), Sales Force CRM
+
+      PAAS: for rapid software development, 
+            we don't need to buy and maintain software and underlying infrastructure
+            you only care about your code
+            the patching and update, patching, runtime are done by the provider          
+            a. Provides developer's necessary tools to create, test, host and maintain created applications. 
+            b. Cloud providers offer an Internet-based platform to developers who create services but don't want to build their own cloud. 
+            c. database services, storage serveces, network as a service 
+
+      IAAS: server, storage, network, OS on-demand 
+            we are buying hardware from the provider: provisoning the required hardware to install our software. 
+            We have to take care of everything 
+            a. Delivers computer infrastructure, typically a platform virtualization environment as a service. 
+            b. Cloud providers build datacenters, managing power, scale, hardware, networking, storage, distributed systems, etc…
+            B. we have take care of the data, patching, upgrade, security patche, middlewavre, runtime
+            c. Rather than purchasing servers, software, data center space or network equipment,clients instead buy those resources as a fully outsourced service. 
+
+
+  
+  
