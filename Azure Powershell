@@ -1,0 +1,19 @@
+Here are the very important things for azure powershell
+
+1. install azurepowershell 
+
+
+How to connect to azure from powershell?
+
+    1. Certificate method
+      this method is essentially importing the certificate file 
+      import -azurepublicationsettingfile PathToThe CertificateFile
+   2. account method
+      this method uses the subscription name to connect azure
+      add-azureaccount 
+      
+
+Connection mode
+  1. azure service management
+  2. azure resource manager
+  
